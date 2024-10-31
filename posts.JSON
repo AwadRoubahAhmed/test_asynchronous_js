@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Post One",
+    "body": "This is body 1",
+    "user": "AliyouDev"
+  },
+
+  {
+    "title": "Post Two",
+    "body": "This is body 2",
+    "user": "NidolDev"
+  },
+
+  {
+    "title": "Post Three",
+    "body": "This is body 3",
+    "user": "ZeiriDev"
+  }
+]
